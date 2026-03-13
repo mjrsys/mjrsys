@@ -1,8 +1,4 @@
-# Hi there 👋 I'm Marcelo
-
-I'm a Computer Science undergraduate from Brazil 🇧🇷 with a background in IT support and a strong interest in software development and backend engineering.
-
-Currently, I'm focused on building solid foundations in development, problem-solving, and computer science fundamentals, while preparing myself for international opportunities in the tech industry.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3500&pause=700&center=true&vCenter=true&width=600&lines=Hi!+%F0%9F%91%8B;I'm+Marcelo!;Computer+Science+Student+%7C+Backend+Developer;Java+%E2%80%A2+Spring+%E2%80%A2+APIs+%E2%80%A2+SQL)](https://git.io/typing-svg)
 
 ---
 
